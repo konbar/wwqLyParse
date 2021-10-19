@@ -2,7 +2,7 @@
   "name": "vm-server",
   "main": "index.js",
   "dependencies": {
-    "vm2": "^3.6.10"
+    "vm2": "^3.9.4"
   },
   "scripts": {
     "test": "eslint **/*.js"
